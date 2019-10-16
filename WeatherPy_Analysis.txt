@@ -1,0 +1,8 @@
+WeatherPy Analysis
+Seth Pruitt
+
+1) In figure "Latitude vs Temperature", there is a negative correlation between latitude and max temperature in the data. It is also visible that the mean temperature leans slightly above the zero latitude, and the groupings are also tighter on this end. I hypothesize this is due to the tilt of the earth still favoring the northern hemisphere in exposure to the sun.
+
+2) In all figures, no cities are ever seen below latitude -60, consistent with the existense of the inhospitable frozen hellscape known as Antartica.
+
+3) While no figures other than the first present any visibly strong correlation in the data, the figure "Latitude vs. Cloudiness" presents strong evidence that while the latitude does not the cloudiness, clouds seem to form in percent thresholds or not at all, forming horizontal bands across the graph. The percentages for those bands appear to be consistent at approximately 0%, 20%, 40%, 75%, 90%, and 100%. Any potential cause for this is unknown to me and I plan to look into this result further to discover why this data forms as such.
